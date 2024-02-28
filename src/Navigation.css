@@ -1,0 +1,15 @@
+ul {
+  display: flex;
+  list-style: none;
+  margin-left: 45%;
+}
+li {
+  margin: 5px;
+}
+a {
+  text-decoration: none;
+  color: rgb(231, 170, 48);
+}
+a:hover {
+  color: gray;
+}
